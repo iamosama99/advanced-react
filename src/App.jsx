@@ -1,4 +1,4 @@
-import ErrorExample from  './tutorial/01-useState/starter/05-useState-gotcha.jsx'
+import ErrorExample from  './tutorial/03-conditional-rendering/starter/07-user-challenge'
 
 function App() {
   return (
