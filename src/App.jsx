@@ -1,4 +1,4 @@
-import ErrorExample from  './tutorial/03-conditional-rendering/starter/07-user-challenge'
+import ErrorExample from  './tutorial/06-forms/starter/01-controlled-inputs'
 
 function App() {
   return (
