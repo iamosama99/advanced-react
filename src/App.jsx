@@ -1,4 +1,4 @@
-import ErrorExample from  './tutorial/06-forms/starter/01-controlled-inputs'
+import ErrorExample from  './tutorial/06-forms/starter/05-form-data'
 
 function App() {
   return (
