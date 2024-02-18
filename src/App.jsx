@@ -1,4 +1,4 @@
-import ErrorExample from  './tutorial/07-useRef/starter/01-useRef-basics'
+import ErrorExample from  './tutorial/10-useReducer/starter/01-useReducer'
 
 function App() {
   return (
